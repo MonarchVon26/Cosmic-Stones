@@ -10,3 +10,4 @@ if keyboard_check(vk_right)
 {
 image_angle -=4;
 }
+move_wrap(true, true, 0);
