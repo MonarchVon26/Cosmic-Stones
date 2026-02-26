@@ -1,7 +1,6 @@
 keyboard_set_map(ord("W"), vk_up);
 keyboard_set_map(ord("A"), vk_left);
 keyboard_set_map(ord("D"), vk_right);
-
 if keyboard_check (vk_up)
 {
 	motion_add(image_angle, 0.1);
