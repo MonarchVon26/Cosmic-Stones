@@ -4,11 +4,13 @@ First two tutorials done
 
 **Version 1.0 Release**
 
-Features
+
+*Features*
 * Game cycle
 * Basic Menu
 * Own made ship
-Excludes
+
+*Excludes*
 * Powerups
 * In-game quit (menu has it)
 * usage of the last video
