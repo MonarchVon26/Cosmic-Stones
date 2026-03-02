@@ -8,7 +8,7 @@ Features
 * Game cycle
 * Basic Menu
 * Own made ship
-  excludes
+Excludes
 * Powerups
 * In-game quit (menu has it)
 * usage of the last video
