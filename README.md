@@ -1,6 +1,6 @@
 # Cosmic-Stones-2026
 
-First to tutorials done
+First two tutorials done
 
 **Version 1.0 Release**
 
